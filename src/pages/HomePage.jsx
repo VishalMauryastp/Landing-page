@@ -13,7 +13,7 @@ import React from "react";
 
 const HomePage = () => {
   return (
-    <section className="pagezContainer  mx-auto w-full mt-[-91px]  ">
+    <section className="pagezContainer  mx-auto w-full mt-[-99px]  ">
       <Hero />
       <About />
       <div className="mx-auto lg:min-h-screen w-full bg-[url(/seo-services/bg-seo.jpg)]  bg-cover bg-fixed bg-center bg-no-repeat shadow-lg">

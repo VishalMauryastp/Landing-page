@@ -17,7 +17,6 @@ const Model = ({ isModalOpen, setIsModalOpen }) => {
 
   return (
     <div>
-      <button onClick={() => setIsModalOpen(true)}>Open Modal</button>
       <Modal
         open={isModalOpen}
         onOk={handleOk}

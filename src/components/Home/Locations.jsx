@@ -5,7 +5,7 @@ const Locations = () => {
   return (
     <div className="py-12 md:py-20">
       <div className="w-[90%] mx-auto flex  max-lg:flex-col gap-4">
-        <div className=" flex max-lg:flex-col lg:w-[50%] rounded-2xl overflow-hidden drop-shadow-2xl shadow-2xl">
+        <div className=" flex max-lg:flex-col lg:w-[50%] rounded-2xl overflow-hidden ">
           <div className="lg:w-[40%] text-white bg-black/50 bg-top bg-blend-multiply bg-[url(/gate-way-of-india.jpg)] bg-cover bg-no-repeat py-16 px-4">
             <h4 className="font-bold font-redhat text-[22px]">Mumbai Office</h4>
             <p className="font-poppins text-[16px] mt-4">
